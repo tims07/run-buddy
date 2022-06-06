@@ -70,7 +70,7 @@ header {
   }
 
   .hero {
-    background-image: url("../images/flipped-hero-image\,jpg.jpeg");
+    background-image: url("../images/hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -227,6 +227,7 @@ header {
   .contact {
     text-align: center;
     background: #024e76;
+
   }
 
   .contact h2 {
@@ -261,6 +262,3 @@ header {
   .contact-info a {
     color: #fce138;
   }
-
- 
-  
